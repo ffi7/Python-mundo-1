@@ -1,0 +1,7 @@
+si = input('Olá, você poderia responder uma rapida pesquisa? ')
+no = input ("Qual seu nome? ")
+print ('Seja bem-vindo(a)', no, ', bom então vamos começar')
+id = input('Qual sua idade? ')
+pe = input('Quanto você pesa? ')
+al = input('Qual sua altura? ')
+print('Então, recapitulando sua idade é', id, ', seu peso é', pe,  'e sua altura é', al, 'então', no, 'está correto?')

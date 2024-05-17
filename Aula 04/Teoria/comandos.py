@@ -1,0 +1,12 @@
+print ('olá mundo')
+print (7 + 5)
+print ('7' + '5')
+print ('olá mundo', 7 + 5, '7' + '5')
+ol= ('olá mundo')
+s1= (7 + 5)
+s2= ('7' + '5')
+print (ol, s1, s2)
+no= input('Qual seu nome? ')
+id= input('Qual sua idade? ')
+pe= input('Qual seu peso? ')
+print ('Então seu nome é', no, ', sua idade é', id, 'e seu peso é', pe, ',certo? ') #forma mais dificil e feia
